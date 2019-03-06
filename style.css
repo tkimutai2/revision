@@ -1,0 +1,57 @@
+.back {
+  background-color: rgb(250,152,29);
+  text-align: left;
+  height: 150px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom:1%;
+  margin-top:1%;
+  width: 80%;
+  padding:0px;
+  
+}
+#image_odd{
+  float:left;
+}
+
+#image_even{
+  float:right;
+}
+#item{
+  font-family:"Prestige Elite Std";
+  text-align:center;
+  font-size:32px;
+  padding:10px;
+}
+#price{
+  font-family:"Prestige Elite Std";
+  text-align:center;
+  font-size:24px;
+}
+#p{
+  font-family:"Calibri Light";
+  text-align:center;
+  font-size:20px;
+  font-style: italic;
+}
+  
+
+main{
+  display:flex;
+  flex-direction:column;
+  background-color:rgb(0,163,193);
+}
+#header{
+  font-family:"Bodoni MT Condensed";
+  text-align:center;
+  font-size:72px;
+  padding:2%;
+  font-weight:900;
+  color:rgb(0,108,128);
+}
+#subhead{
+  font-family:"Calibri Light";
+  text-align:center;
+  font-size:32px;
+  font-style: italic;
+}
